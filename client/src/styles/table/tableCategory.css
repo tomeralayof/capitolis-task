@@ -1,0 +1,11 @@
+.table-category-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 2%;
+}
+
+.category {
+  border: 2px dashed #29abe2;
+  padding: 3px;
+  font-size: 1vw;
+}

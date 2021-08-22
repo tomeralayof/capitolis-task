@@ -1,0 +1,38 @@
+.buttons {
+  margin-top: 10%;
+  display: flex;
+  justify-content: center;
+  grid-gap: 3%;
+}
+.btn > button {
+  font-size: 1vw;
+}
+
+button {
+  background-color: lightgray;
+  color: #29abe2;
+  padding: 2rem;
+  border: 3px dashed #29abe2;
+  border-radius: 10%;
+  cursor: pointer;
+  font-family: "Indie Flower", cursive;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+}
+.csv-link {
+  background-color: lightgray;
+  color: #29abe2;
+  font-family: "Indie Flower", cursive;
+  text-decoration: none;
+  font-weight: bold;
+  border: 3px dashed #29abe2;
+}
+
+/* color: #29abe2;
+  padding: 2rem;
+  border: 3px dashed #29abe2;
+  border-radius: 10%;
+  cursor: pointer;
+  font-family: "Indie Flower", cursive;
+  font-weight: bold;
+  letter-spacing: 0.4px; */

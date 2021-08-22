@@ -1,0 +1,8 @@
+@local=http://localhost:8181
+
+POST {{local}}/transaction
+Content-Type: application/json
+
+###
+GET {{local}}/transaction
+Content-Type: application/json
