@@ -1,7 +1,7 @@
 installation: server:
 
 run npm i to get the node module
-run npm run dev to start the server
+,run npm run dev to start the server
 client:
 
 run npm i to get the node module
